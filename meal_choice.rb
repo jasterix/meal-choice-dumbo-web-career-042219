@@ -2,5 +2,9 @@
 # passed into it and defaults to meat.
 
 def meal_choice(meal="meat")
-  return #{meal}
+  return "#{meal}""
 end
+
+# def greeting(name = "Ruby programmer")
+#   puts "Hello, #{name}"
+# end
